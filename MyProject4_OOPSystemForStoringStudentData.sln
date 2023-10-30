@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProject4_OOPSystemForStoringStudentData", "MyProject4_OOPSystemForStoringStudentData\MyProject4_OOPSystemForStoringStudentData.csproj", "{2C6893A9-6DDA-49FC-9F51-0E4AE7552040}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProject4_OOPSystemForStoringStudentDataLibrary", "MyProject4_OOPSystemForStoringStudentDataLibrary\MyProject4_OOPSystemForStoringStudentDataLibrary.csproj", "{EBD6D26C-028D-461E-88C7-A5F26BF32C14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C6893A9-6DDA-49FC-9F51-0E4AE7552040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6893A9-6DDA-49FC-9F51-0E4AE7552040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6893A9-6DDA-49FC-9F51-0E4AE7552040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6893A9-6DDA-49FC-9F51-0E4AE7552040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD6D26C-028D-461E-88C7-A5F26BF32C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD6D26C-028D-461E-88C7-A5F26BF32C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD6D26C-028D-461E-88C7-A5F26BF32C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD6D26C-028D-461E-88C7-A5F26BF32C14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A18682FC-7C39-4411-A9E3-EBEE17E31CE0}
+	EndGlobalSection
+EndGlobal
